@@ -1,0 +1,23 @@
+flight_id,airline,from_city,from_country,to_city,to_country,dep_date,duration_min,price_eur,note
+FL-6007,Falcon Jet,Riga,Latvia,Milan,Italy,2026-04-19,182,60.50,
+FL-8671,SkyNord,Madrid,Spain,Berlin,Germany,2026-06-03,185,229.00,
+FL-1916,Orbit Airways,Oslo,Norway,Vienna,Austria,15.07.2026,73,244.50,
+FL-7647,Falcon Jet,Paris,France,Vilnius,Lithuania,2026-08-17,187,225.50,
+FL-7539,AeroVista,Prague,Czechia,Krakow,Poland,04.05.2026,170,197.99,
+FL-6163,SkyNord,Madrid,Spain,Rome,Italy,2026-09-28,120,,
+FL-2052,AeroVista,Kyiv,Ukraine,Madrid,Spain,09.03.2026,215,163.50,delay=10;by=FlightLog
+FL-6703,TransCarpa,Oslo,Norway,Rome,Italy,01.07.2026,245,171.50,
+FL-9907,Zephyr Lines,Riga,Latvia,Budapest,Hungary,08.03.2026,156,200.50,
+FL-3298,AeroVista,Vilnius,Lithuania,Berlin,Germany,2026-07-26,298,113.99,
+FL-8574,Orbit Airways,Paris,France,Tallinn,Estonia,2026-06-23,158,196.00,delay=90;by=FlightLog
+FL-6157,AeroVista,Lisbon,Portugal,Prague,Czechia,20.03.2026,283,55.00,
+FL-8234,AeroVista,Odesa,Ukraine,Lyon,France,05.06.2026,143,136.00,
+ fl-6157 ,AeroVista ,LISBON,Portugal,Prague,Czechia,20.03.2026,283,55.00,
+FL-2100,Blue Meridian,Lyon,France,Munich,Germany,22.08.2026,227,153.99,delay=15;by=FlightLog
+FL-7681,TransCarpa,Lviv,Ukraine,Lyon,France,2026-05-05,95,87.00,
+FL-1075,Falcon Jet,Warsaw,Poland,Krakow,Poland,2026-08-21,164,90.99,
+FL-1592,TransCarpa,Berlin,Germany,Paris,France,2026-03-02,99,259.99,
+FL-1912,Zephyr Lines,Budapest,Hungary,Milan,Italy,2026-04-14,305,232.99,delay=15;by=FlightLog
+FL-6539,Falcon Jet,Madrid,Spain,Budapest,Hungary,13.05.2026,127,259.00,
+FL-2904,TransCarpa,Rome,Italy,Kyiv,Ukraine,2026-03-15,115,115.50,
+ fl-1916 ,Orbit Airways ,OSLO,Norway,Vienna,Austria,15.07.2026,73,244.50,
